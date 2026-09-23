@@ -44,3 +44,6 @@ coverage/
 # Vercel
 .vercel
 mcp/.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
